@@ -12,7 +12,7 @@
 
  🌱 I’m currently learning **Machine Learning**
 
- 💬 Ask me about **Cybersecurity, Blockchain, MERN Stack**
+ 💬 Ask me about **Cybersecurity, Blockchain, MERN Stack, IOT**
 
  ⚡ Fun fact: **The "404 error" is named after Room 404 at CERN, where the World Wide Web was created**
 

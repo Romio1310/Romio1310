@@ -29,6 +29,11 @@
 ---
 
 ### 🏆 **Experience**
+- **Industrial Summer Training, Metacrafters**  
+  *June 2024 - November 2024*  
+  Completed a 4-module blockchain training program, delivering **10 projects**.  
+  Gained expertise in **Solidity**, **smart contracts**, and **EVM-based development** on Ethereum and Avalanche.  
+
 - **Cadet, National Cadet Corps (NCC), India**  
   *Feb 2024 - Present*  
   Rejoined NCC to continue my leadership journey, pursuing unfinished goals. Gained **teamwork** and **leadership** skills.

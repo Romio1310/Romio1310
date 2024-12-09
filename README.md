@@ -83,8 +83,9 @@
 
 ### ⚒️ **Languages, Frameworks & Tools**
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,git,figma,tailwind" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,mongodb,c,java,solidity" />
+    <img src="https://skillicons.dev/icons?i=firebase,arduino,azure,aws" />
 </div>
 
 ---

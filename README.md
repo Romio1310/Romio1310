@@ -41,9 +41,6 @@
 - **Member, IEEE Computer Society, Chandigarh University**  
   *Feb 2023 - Present*
 
-- **Member, IEEE Chandigarh University**  
-  *Dec 2022 - Present*
-
 - **Member, Google Developer Student Clubs**  
   *Oct 2022 - Present*
 

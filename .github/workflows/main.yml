@@ -1,0 +1,39 @@
+name: Generate Snake
+
+on:
+  push:
+    branches:
+      - main  # Replace 'main' with your default branch if different
+  schedule:
+    - cron: "0 1 * * *"  # Runs daily at 01:00 UTC
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '14'
+
+      - name: Create dist directory
+        run: mkdir -p dist
+
+      - name: Generate Snake animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Romio1310
+          output: dist/github-snake.svg
+
+      - name: Commit and push the generated Snake
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add dist/github-snake.svg
+          git commit -m "Generate Snake animation"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

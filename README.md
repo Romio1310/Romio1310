@@ -79,7 +79,7 @@
 ---
 
 ### 🐍 **My Contributions**
-
+![GitHub Snake Animation](dist/github-snake.svg)
 
 ---
 

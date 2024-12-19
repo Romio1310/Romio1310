@@ -79,9 +79,7 @@
 ---
 
 ### 🐍 **My Contributions**
-<div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/J1NX-82/J1NX-82/output/github-contribution-grid-snake.svg" />
-</div>
+
 
 ---
 

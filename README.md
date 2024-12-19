@@ -50,18 +50,6 @@
 
 ---
 
-### 🎓 **Education**
-- **Chandigarh University**  
-  *Bachelor of Engineering (BE), Computer Engineering*  
-  2022 - 2026  
-  **Skills:** Python (Programming Language), Leadership, Problem-Solving
-
-- **Army Public School, Amritsar**  
-  *Senior Secondary Education, PCM, Physical Education*  
-  *Apr 2021 - Mar 2022*  
-  **Activities:** Athletics, Cycling
-
----
 
 ### 🛠 **Projects**
 - **Decentralized Blockchain Voting System**  

@@ -78,6 +78,10 @@
 
 ---
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=romio1310&" alt="romio1310" /></p>
+
+---
+
 ### 🐍 **My Contributions**
 ![GitHub Snake Animation](dist/github-snake.svg)
 

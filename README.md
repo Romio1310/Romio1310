@@ -43,7 +43,7 @@
 
 ### 🐍 **My Contributions**
 ![GitHub Snake Animation](dist/github-snake.svg)
-<img width="1356" height="740" alt="Screenshot 2025-10-16 at 3 51 03 PM" src="https://github.com/user-attachments/assets/931e23ec-51f9-4c31-b7ad-668fd2138593" />
+
 
 ---
 

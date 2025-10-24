@@ -38,7 +38,7 @@
 ---
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=romio1310&" alt="romio1310" /></p>
-![An image of @romio1310's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/romio1310)](https://holopin.io/@romio1310)
+[![An image of @romio1310's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/romio1310)](https://holopin.io/@romio1310)]
 
 ---
 

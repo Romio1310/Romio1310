@@ -21,10 +21,11 @@
 ---
 
 ### 🧑‍💼 **About Me**
-- As an aspiring CSE undergraduate, I'm captivated by the realms of **Cybersecurity, Blockchain Technology, Neural Networking, Deep Learning, Robotics, Game Development**, and **emerging technologies**. Delving into these areas fuels my curiosity and passion for innovation.
-- I have a strong aspiration to serve my nation as an **Air Force Pilot**. My experience as an **NCC Cadet** has honed my leadership skills and instilled discipline in me.
-- I believe in **practical knowledge** and constantly seek hands-on experience to complement theory.
-- Always open to challenges that propel me beyond my boundaries.
+
+- I'm a **Computer Science undergraduate** driven by a deep curiosity for **Cybersecurity, Blockchain, Neural Networks, Deep Learning, Robotics**, and **Game Development**.  
+- My goal is to explore how **emerging technologies** can shape a smarter and more secure future.  
+- Alongside my tech interests, I aspire to serve the nation as an **Air Force Pilot** — a dream strengthened by my journey as an **NCC Cadet**, which instilled discipline, teamwork, and leadership in me.  
+- I strongly believe in **learning by doing** and constantly seek **hands-on experiences** that push me beyond my comfort zone.  
 
 ---
 

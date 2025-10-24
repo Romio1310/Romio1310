@@ -7,10 +7,8 @@
 <h3 align="center">Aspiring Cybersecurity Specialist | Blockchain Developer | NCC Cadet</h3>
 
 <div align="center">
- 
- 🔭 I’m currently working on **my personal portfolio**
 
- 🌱 I’m currently learning **Machine Learning**
+ 🌱 I’m currently learning **Agentic AI**
 
  💬 Ask me about **Cybersecurity, Blockchain, MERN Stack, IOT**
 

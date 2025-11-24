@@ -4,13 +4,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Gurdeep+Singh!;" />
 </h1>
 
-<h3 align="center">Aspiring Cybersecurity Specialist | Blockchain Developer | NCC Cadet</h3>
+<h3 align="center">Currently working on Agents | Blockchain & Mern Stack Developer | NCC Cadet</h3>
 
 <div align="center">
 
  🌱 I’m currently learning **Agentic AI**
 
- 💬 Ask me about **Cybersecurity, Blockchain, MERN Stack, IOT**
+ 💬 Ask me about **AI Agents, Blockchain, MERN Stack, IOT**
 
  ⚡ Fun fact: **The "404 error" is named after Room 404 at CERN, where the World Wide Web was created**
 
